@@ -1,18 +1,14 @@
-# CS499 - Open Source Software Development 
+# CS599 - Open Source Software Development 
 
-**Instructor**: Dr. Igor Steinmacher
+**Instructor**: Mr. Italo Santos
 
-**Email**: Igor.Steinmacher@nau.edu
+**Email**: Italo.Santos@nau.edu
 
-**Class time**: TuTh 2:20 - 3:35 PM
+**Class time**: TuTh 11:10 - 12:25 PM
 
-**Office Hours**: TuTh 8:30 - 9:30 AM; Room 090-205. 
-
-**MS Teams:** Please hangout, discuss, create channels for specific groups and issues. [Join here](https://teams.microsoft.com/l/team/19%3a9M4MEQum5Jn7JRaP_bv37MLubyzgPHHOCEjOvoUTU2g1%40thread.tacv2/conversations?groupId=300dcad9-a598-4dd2-ab9c-410917178553&tenantId=27d49e9f-89e1-4aa0-99a3-d35b57b2ba03) -- Use the code cg9mzqt to be automatically approved
+**Office Hours**: Wed 10 - 12 PM; Room 118 - SICCs. 
 
 **Syllabus**: REVIEW the policies, grade breakdown, and Textbooks recommended. [Read it here](CS_599_Syllabus.pdf)
-
-**iClicker**: Attendance and in-class polls. [Access our course here](https://join.iclicker.com/FNIS)
 
 **[Course Schedule](outline.md)**
 
